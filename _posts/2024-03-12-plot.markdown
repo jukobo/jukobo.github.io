@@ -1,2 +1,2 @@
-![My helpful screenshot](_posts\Figures\image1.png)
-
+... which is shown in the screenshot below:
+![My helpful screenshot](_posts/Figures/image1.png)
