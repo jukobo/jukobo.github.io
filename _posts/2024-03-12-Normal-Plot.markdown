@@ -1,5 +1,6 @@
-... which is shown in the screenshot below:
-![My helpful screenshot](//image1.png)
+This is how to visualize a plot or figure
+
+![Heatmap from lecture 6](//Figures/image1.png)
 
 
 And my bokeh plot
