@@ -2,5 +2,5 @@
 
 *\*This is how to make the text italic\** 
 
-**\*\* This is how to make the text bold \*\***
+**\*\*This is how to make the text bold\*\***
 
