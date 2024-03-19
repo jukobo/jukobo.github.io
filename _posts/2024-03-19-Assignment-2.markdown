@@ -6,4 +6,13 @@ __Introduction__\
 __First plot__\
 ![One time-series / bar chart](/A2/plot1.png)
 
-Her er et nyt plot
+
+__Second plot__\
+<embed 
+       type="text/html" 
+       src="/A2/plot2.html"
+       width="1100"
+       height="600"
+       >
+</embed>
+
