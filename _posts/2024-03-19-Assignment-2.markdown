@@ -4,5 +4,6 @@
 __Introduction__\
 
 __First plot__\
-![Heatmap from lecture 6](/A2/plot1.png)
+![One time-series / bar chart](/A2/plot1.png)
 
+Her er et nyt plot
