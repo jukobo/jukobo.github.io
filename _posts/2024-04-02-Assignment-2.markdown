@@ -5,3 +5,4 @@ __Introduction__\
 
 __First plot__\
 ![Heatmap from lecture 6](/A2/plot1.png)
+
