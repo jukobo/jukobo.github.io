@@ -12,7 +12,14 @@ __First plot__\
 __Second plot__
 <embed 
        type="text/html" 
-       src="/A2/plot2.html"
+       src="/A2/plot21.html"
+       width="1100"
+       height="600"
+       >
+
+<embed 
+       type="text/html" 
+       src="/A2/plot22.html"
        width="1100"
        height="600"
        >
