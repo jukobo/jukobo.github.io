@@ -12,7 +12,7 @@ _Short intro_
 
 In the first plot of the subplot, a comprehensive overview of the crime trend from 2003 to 2015 is presented. It can be seen, that the prostitution rate peaked in 2003 and again in 2007, from where it steadily declined until 2015.
 
-Looking closer at the subplot, Thursdays emerged as the day with the highest frequency of crimes, totaling 3630 incidents, whereas Sundays witnessed the fewest, with only 1059 reported crimes, .
+Looking closer at the subplot, Thursdays emerged as the day with the highest frequency of crimes, totaling 3630 incidents, whereas Sundays witnessed the fewest, with only 1059 reported crimes, see table 1.
 
 <!-- <div style="margin-left: auto;
             margin-right: auto;
@@ -26,6 +26,9 @@ Looking closer at the subplot, Thursdays emerged as the day with the highest fre
 <!-- </div> -->
 
 _Table 1: Total amount of prostitution crimes on the different weekdays._
+
+The data reveals a varying pattern in prostitution incidents over the years. Initially, there is a relatively low frequency of such offenses on Saturdays during the first four years. However, a significant increase is observed in 2007 and 2008, with peak levels reached in 2014, before returning to levels akin to those seen between 2003 and 2006 by the end of the period.
+
 
 
 __Second plot__
