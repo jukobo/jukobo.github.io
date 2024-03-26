@@ -14,19 +14,18 @@ In the first plot of the subplot, a comprehensive overview of the crime trend fr
 
 Looking closer at the subplot, Thursdays emerged as the day with the highest frequency of crimes, totaling 3630 incidents, whereas Sundays witnessed the fewest, with only 1059 reported crimes, .
 
-<div style="margin-left: auto;
+<!-- <div style="margin-left: auto;
             margin-right: auto;
-            width: 50%">
+            width: 50%"> -->
 
 | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |--------|---------|-----------|----------|--------|----------|--------|
 |  1123  |   3003  | 3291      | 3630     | 2776   | 1571     | 1059   |
 
 
+<!-- </div> -->
 
 _Table 1: Total amount of prostitution crimes on the different weekdays._
-</div>
-
 
 
 __Second plot__
