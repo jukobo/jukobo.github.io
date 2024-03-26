@@ -18,6 +18,7 @@ Looking closer at the subplot, Thursdays emerged as the day with the highest fre
 | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |--------|---------|-----------|----------|--------|----------|--------|
 |  1123  |   3003  | 3291      | 3630     | 2776   | 1571     | 1059   |
+
 _Table 1: Total amount of prostitution crimes on the different weekdays._
 
 
