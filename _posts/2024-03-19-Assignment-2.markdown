@@ -29,15 +29,17 @@ A noteworthy observation is the apparent increase in crimes during the weekend c
 
 __Second plot__
 
-The plot to the left shows that the region PARK is the district with the least reported cases of PROSTITUTION as there only have been recorded 18. MISSION is the region where the highest number of reported cases of PROSTITUTION as 2773 cases have been reported here. It is however necessary to keep in mind that these number tells nothing of the density of the crime.\n
+The plot to the left shows that the region PARK is the district with the least reported cases of PROSTITUTION as there only have been recorded 18. MISSION is the region where the highest number of reported cases of PROSTITUTION as 2773 cases have been reported here. It is however necessary to keep in mind that these number tells nothing of the density of the crime.
 
-As MISSION is a larger region than TENDERLOIN it is fair to assume that more more people live here. According to THE STANDARD BASED ON THE CITY OF SF’S ANALYSIS NEIGHBORHOODS, there is an estimated 103.059 population in the district MISSION. Please note that this source divides SF into 41 regions, so our estimate for the population of the district MISSION, is the sum of the population of three districts, which all together cover the district MISSION. The district tenderloin has an estimated population of 31.118 citizens. Sunset/Parkside (which is a subdistrict of TARAVAL) is the most populous neighbourhood in the city with a population of 81.209 citizens. \n
+As MISSION is a larger region than TENDERLOIN it is fair to assume that more more people live here. According to THE STANDARD BASED ON THE CITY OF SF’S ANALYSIS NEIGHBORHOODS^{[1]}, there is an estimated 103.059 population in the district MISSION. Please note that this source divides SF into 41 regions, so our estimate for the population of the district MISSION, is the sum of the population of three districts, which all together cover the district MISSION. The district tenderloin has an estimated population of 31.118 citizens. Sunset/Parkside (which is a subdistrict of TARAVAL) is the most populous neighbourhood in the city with a population of 81.209 citizens.
 
-To give a better answer to which districts troubles the most with PROSTITUTION, one could look at the reported incident relative to either the number of citizens or area of the district to create a better basis of comparison. \n
+To give a better answer to which districts troubles the most with PROSTITUTION, one could look at the reported incident relative to either the number of citizens or area of the district to create a better basis of comparison.
 
-As the data presented by THE STANDARD used another division of the map, the data is not directly compatible with the data SF crime data we have been provided with. We have therefore calculated the area of each district given the coordinates. It would be better to calculate the density of the crime based on the number of citizens, as assuming that the population density over all distances is equal is a misleading assumption. \n
+As the data presented by THE STANDARD used another division of the map, the data is not directly compatible with the data SF crime data we have been provided with. We have therefore calculated the area of each district given the coordinates. It would be better to calculate the density of the crime based on the number of citizens, as assuming that the population density over all distances is equal is a misleading assumption.
 
 The plot to the right shows the rate of reported cases of prostitution per area of each district. Here it is seen that TENDERLOIN now has a higher rate of reported cases of prostitution per area than MISSION. This shows that TENDERLOIN is the district that was troubled the most with PROSTITUTION when looking at reported cases of prostitution per area.
+
+[1]: https://sfstandard.com/2022/12/08/san-francisco-neighborhood-new-census-data-maps/
 
 <div style="display: flex; justify-content: space-between;">
     <div>
