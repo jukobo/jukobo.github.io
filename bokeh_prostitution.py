@@ -7,7 +7,7 @@ from bokeh.models import DatetimeTickFormatter
 
 
 ## Load files
-file = "..\..\Data\Police_Department_Incident_Reports__Historical_2003_to_May_2018_20240130.csv"
+file = "Data/Police_Department_Incident_Reports__Historical_2003_to_May_2018_20240130.csv"
 # file = "..\..\Data\Police_Department_Incident_Reports__Historical_2003_to_May_2018_20240206.csv"
 crime = 'PROSTITUTION'
 

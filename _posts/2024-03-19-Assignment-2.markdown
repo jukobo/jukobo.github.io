@@ -63,4 +63,10 @@ The plot to the right shows the rate of reported cases of prostitution per $'km^
 
 
 plot3
-
+<embed 
+       type="text/html" 
+       src="/bokeh_prostitution.html"
+       width="1100"
+       height="600"
+       >
+</embed>
