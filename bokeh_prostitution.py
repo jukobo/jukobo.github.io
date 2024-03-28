@@ -29,7 +29,7 @@ focusdf.set_index('datetime', inplace=True)
 # Make sure 'DayOfWeek' column is categorical
 focusdf['DayOfWeek'] = pd.Categorical(focusdf['DayOfWeek'], categories=['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'], ordered=True)
 
-p = figure(width=900, height=350, y_range=['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'], x_axis_type='datetime',
+p = figure(width=800, height=350, y_range=['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'], x_axis_type='datetime',
            title="Prostitution over the years")
 
 # Add axis titles
