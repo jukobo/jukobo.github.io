@@ -10,7 +10,7 @@ _Short intro_
 
 ![One time-series / bar chart](/A2/plot1.png)
 
-In the first plot of the subplot, a comprehensive overview of the crime trend from 2003 to 2015 is presented. It can be seen, that the prostitution rate peaked in 2003 and again in 2007, from where it steadily declined until 2015.\
+In the first plot of the subplot, a comprehensive overview of the crime trend from 2003 to 2017 is presented. It can be seen, that the prostitution rate peaked in 2003 and again in 2007, from where it steadily declined until 2015.\
 Looking closer at the subplot, Thursdays emerged as the day with the highest frequency of crimes, totaling 3630 incidents, whereas Sundays witnessed the fewest, with only 1059 reported crimes, see table 1.
 
 | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
@@ -64,7 +64,8 @@ The plot to the right shows the rate of reported cases of prostitution per $'km^
 
 __Third plot__
 
-Finally to gain a better insight of prostitution in each of San Francisco's police districts, we have created a jitterplot over the prostitution incidents. Each point represents an incident, with the x-axis showing the time of occurrence and the y-axis indicating the day of the week. This plots provides us an understanding of trends and variations over time and across different districts. Additionally, a legend on the right side of the plot assists in identifying the police districts represented by different colors.
+Finally, to gain a better insight into prostitution in each of San Francisco's police districts, we have created a jitter plot illustrating prostitution incidents. Each point represents an incident over the 14 years, with the x-axis showing the time of occurrence and the y-axis indicating the day of the week. These plots provide us with an understanding of trends and variations over time and across different districts. Additionally, a legend on the right side of the plot assists in identifying the police districts represented by different colors.
+
 <embed 
        type="text/html" 
        src="/bokeh_prostitution.html"
@@ -72,4 +73,8 @@ Finally to gain a better insight of prostitution in each of San Francisco's poli
        height="600">
 _Figure 3: Jitterplot over the prostitution incidents for each police department._
 
-Looking at the different discrits we see
+Looking at the different districts, we observe that there are clearly more incidents during the evening and night hours compared to the daytime in most districts. Additionally, we notice a distinct pattern where weekdays, particularly Tuesday, Wednesday, and Thursday, has the highest density of incidents. These observations are just like those found in the first figure above.
+
+When examining each district individually, it becomes evident that Mission, Northern, and Tenderloin are among the districts with the highest number of incidents, while the Park district has so few that they can be easily counted.
+
+Furthermore, it is apparent that in some of the districts, a significant number of incidents occur around 12:00, as seen in Taraval. This could be attributed to a delay in reporting, where cases are collected over time and eventually logged into the system all at once at noon. This results in an incorrect pattern in the data and can be considered a human error.
