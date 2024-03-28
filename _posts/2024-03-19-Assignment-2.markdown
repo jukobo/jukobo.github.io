@@ -70,7 +70,7 @@ Finally, to gain a better insight into prostitution in each of San Francisco's p
        type="text/html" 
        src="/bokeh_prostitution.html"
        width="1100"
-       height="100">
+       height="400">
 _Figure 3: Jitterplot over the prostitution incidents for each police department._
 
 Looking at the different districts, we observe that there are clearly more incidents during the evening and night hours compared to the daytime in most districts. Additionally, we notice a distinct pattern where weekdays, particularly Tuesday, Wednesday, and Thursday, has the highest density of incidents. These observations are just like those found in the first figure above.
