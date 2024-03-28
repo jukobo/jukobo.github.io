@@ -31,7 +31,7 @@ focusdf.set_index('datetime', inplace=True)
 focusdf['DayOfWeek'] = pd.Categorical(focusdf['DayOfWeek'], categories=['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'], ordered=True)
 
 p = figure(width=800, height=300, y_range=['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'], x_axis_type='datetime',
-           title="Prostitution")
+           title="Prostitution over the years")
 
 # Add axis titles
 p.xaxis.axis_label = "Time"
