@@ -68,6 +68,6 @@ Finally to gain a better insight of prostitution in each of San Francisco's poli
 <embed 
        type="text/html" 
        src="/bokeh_prostitution.html"
-       width="2000"
-       height="1000">
+       width="1100"
+       height="600">
 _Figure 3: Jitterplot over the prostitution incidents for each police department._
