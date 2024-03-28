@@ -63,11 +63,11 @@ The plot to the right shows the rate of reported cases of prostitution per $'km^
 
 
 __Third plot__
-
+Finally to gain a better insight of prostitution in each of San Francisco's police districts, we have created a jitterplot over the prostitution incidents. Each point represents an incident, with the x-axis showing the time of occurrence and the y-axis indicating the day of the week.
 <embed 
        type="text/html" 
        src="/bokeh_prostitution.html"
        width="2000"
        height="1000"
        >
-</embed>
+_Figure 3: Jitterplot over the prostitution incicents for each police department._
