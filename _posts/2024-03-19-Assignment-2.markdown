@@ -61,3 +61,6 @@ The plot to the right shows the rate of reported cases of prostitution per $km^2
 </div>
 
 
+
+plot3
+
