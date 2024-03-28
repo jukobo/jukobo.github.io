@@ -2,7 +2,7 @@
 
 
 __Introduction__\
-The data that we are working with in this project is *Police Department Incident Reports: Historical 2003 to May 2018*, which is provided by the City and County of San Francisco. The data is about historical reported crimes in San Francisco. It contains 35 columns, each providing essential infomation about the observation, such as time, position and categori of the crime. In this project, we will be focusing on the crime category prostitution and explore how this crime has developed over time and in the different districts of San Francisco.
+The data that we are working with in this project is *Police Department Incident Reports: Historical 2003 to May 2018*, which is provided by the City and County of San Francisco. The data is about historical reported crimes in San Francisco. It contains 35 columns, each providing essential infomation about the observation, such as time, position and categori of the crime. In this project, we will be focusing on the crime category prostitution and explore how this crime has developed over time and in the different districts of San Francisco. We will only examine data from January 1st, 2003, to December 31st, 2017.
 
 
 __First plot__\
@@ -62,7 +62,8 @@ The plot to the right shows the rate of reported cases of prostitution per $'km^
 
 
 
-plot3
+__Third plot__
+
 <embed 
        type="text/html" 
        src="/bokeh_prostitution.html"
