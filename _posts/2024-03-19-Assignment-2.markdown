@@ -66,7 +66,7 @@ plot3
 <embed 
        type="text/html" 
        src="/bokeh_prostitution.html"
-       width="1600"
-       height="850"
+       width="2000"
+       height="1000"
        >
 </embed>
