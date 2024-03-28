@@ -72,4 +72,4 @@ Finally to gain a better insight of prostitution in each of San Francisco's poli
        height="600">
 _Figure 3: Jitterplot over the prostitution incidents for each police department._
 
-Looking at the different discrits we see 
+Looking at the different discrits we see

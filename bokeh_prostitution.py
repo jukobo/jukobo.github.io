@@ -17,8 +17,7 @@ df = df[df['Date'].str.contains('2018') == False]
 focusdf = df[df['Category']== crime]
 
 
-pd_districts = focusdf['PdDistrict'].dropna().astype(str).unique()
-
+pd_districts = sorted(focusdf['PdDistrict'].dropna().astype(str).unique())
 
 # Convert 'time' column to datetime
 focusdf['time'] = pd.to_datetime(focusdf['Time'])
