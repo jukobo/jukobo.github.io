@@ -9,6 +9,7 @@ __Trends and patterns of prostitution incidents (II)__\
 _Short intro_
 
 ![One time-series / bar chart](/A2/plot1.png)
+_Figure 1: Illustration of the distribution of time and days across the years of reported prostitution incidents.._
 
 In the first plot of the subplot, a comprehensive overview of the crime trend from 2003 to 2017 is presented. It can be seen, that the prostitution rate peaked in 2003 and again in 2007, from where it steadily declined until 2015.\
 Looking closer at the subplot, Thursdays emerged as the day with the highest frequency of crimes, totaling 3630 incidents, whereas Sundays witnessed the fewest, with only 1059 reported crimes, see table 1.
@@ -27,7 +28,7 @@ The data illustrates that prostitution incidents are most prevalent around midni
 A noteworthy observation is the apparent increase in crimes during the weekend compared to weekdays, which contrasts with the findings of the first plot. However, upon closer examination and check with table 1, it becomes evident that this apparent discrepancy is not accurate.
 
 
-__Geographical analysis of prostitution incidents (III)__
+__Geographical analysis of reported prostitution incidents (III)__
 
 The plot to the left shows that the region park is the district with the least reported cases of prostitution as there only have been recorded 18 cases. Mission is the region where the highest number of reported cases of prostitution as 2773 cases have been reported here. It is however necessary to keep in mind that these number tells nothing of the density of the crime.
 
@@ -59,7 +60,7 @@ The plot to the right shows the rate of reported cases of prostitution per $'km^
                      >
     </div>
 </div>
-
+_Figure 2: Overview of Reported Prostitution Cases by Districts_
 
 
 __Insights into Prostitution Incident Patterns Across San Francisco Districts (IV)__
