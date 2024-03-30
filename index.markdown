@@ -1,7 +1,8 @@
 ---
 layout: default
-    title: Another page
 ---
+
+test tes test
 
 # Assigment 2, Group 28
 
