@@ -84,7 +84,7 @@ Furthermore, it is apparent that in some of the districts, a significant number 
 
 
 
-__Contributions of the group members__
+__Contributions__
 
 | Part | s214704 | s214725 | s204112 |
 |------|---------|---------|---------|
