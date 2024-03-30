@@ -1,6 +1,6 @@
 ---
 layout: default
-    title: Assignment 2, group 28
+    title: Assignment 2, Group 28
     description: This is just another page
 ---
 *Updated: {% assign copenhagen_time = site.time | date: "%d-%m-%Y %H:%M:%S" | date: "%s" | plus: 3600 | date: "%d-%m-%Y %H:%M:%S" %}{{ copenhagen_time }}*
