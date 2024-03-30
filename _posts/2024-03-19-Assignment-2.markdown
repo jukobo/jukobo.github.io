@@ -2,7 +2,6 @@
 layout: post
 title:  "Assignment 2"
 date:   2024-03-12 09:07:23 +0100
-categories: jekyll update
 ---
 *Updated: {% assign copenhagen_time = site.time | date: "%d-%m-%Y %H:%M:%S" | date: "%s" | plus: 3600 | date: "%d-%m-%Y %H:%M:%S" %}{{ copenhagen_time }}*
 
