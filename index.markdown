@@ -1,7 +1,8 @@
 ---
 layout: default
+    title: Social Data Analysis and Visualization
 ---
 
-# Assigment 2, group 28
+# Assigment 2, Group 28
 We have created a site, where we look into prostitution incidents in San Fransisco. See 
 [Assigment 2](./another-page.html).
