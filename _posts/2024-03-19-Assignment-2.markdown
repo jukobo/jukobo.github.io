@@ -78,3 +78,13 @@ Looking at the different districts, we observe that there are clearly more incid
 When examining each district individually, it becomes evident that Mission, Northern, and Tenderloin are among the districts with the highest number of incidents, while the Park district has so few that they can be easily counted.
 
 Furthermore, it is apparent that in some of the districts, a significant number of incidents occur around 12:00, as seen in Taraval. This could be attributed to a delay in reporting, where cases are collected over time and eventually logged into the system all at once at noon. This results in an incorrect pattern in the data and can be considered a human error.
+
+
+
+__Contributions of the group members__
+
+| Part | s214704 | s214725 | s204112 |
+|------|---------|---------|---------|
+| I    | 40%     | 30%     | 30%     |
+| II   | 30%     | 30%     | 40%     |
+| III  | 30%     | 40%     | 30%     |
