@@ -2,9 +2,9 @@
 layout: default
 ---
 
- 
+ _Group 28_
 
-## Assigment 2, Group 28
+# Assigment 2
 
 * * *
 
