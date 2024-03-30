@@ -40,7 +40,7 @@ To give a better answer to which districts troubles the most with prostitution, 
 
 As the data presented by THE STANDARD used another division of the map, the data is not directly compatible with the SF crime data we have been provided with. We have therefore calculated the area of each district given the longitude and latitude of points surounding each district. Firstly the longitude and the latitude where converted to Cartesian coordinates, whereafter the shoelace formula to calculate the area of the polygon was applied. It would be better to calculate the density of the crime based on the number of citizens, as assuming that the population density over all distances is equal is a misleading assumption.
 
-The plot to the right shows the rate of reported cases of prostitution per $$'km^2'$$ of each district. Here it is seen that Tenderloin now has a higher rate of reported cases of prostitution per $$km^2$$ than Mission. This shows that Tenderloin is the district that was troubled the most with prostitution when looking at reported cases of prostitution per area. 
+The plot to the right in _figure 2_ shows the rate of reported cases of prostitution per $$'km^2'$$ of each district. Here it is seen that Tenderloin now has a higher rate of reported cases of prostitution per $$km^2$$ than Mission. This shows that Tenderloin is the district that was troubled the most with prostitution when looking at reported cases of prostitution per area. 
 
 [THE STANDARD BASED ON THE CITY OF SF’S ANALYSIS NEIGHBORHOODS]: https://sfstandard.com/2022/12/08/san-francisco-neighborhood-new-census-data-maps/
 
