@@ -9,7 +9,7 @@ __Trends and patterns of prostitution incidents (II)__\
 _Short intro_
 
 ![One time-series / bar chart](/A2/plot1.png)
-_Figure 1: Illustration of the distribution of time and days across the years of reported prostitution incidents.._
+_Figure 1: Illustration of the distribution of time and days across the years of reported prostitution incidents._
 
 In the first plot of the subplot, a comprehensive overview of the crime trend from 2003 to 2017 is presented. It can be seen, that the prostitution rate peaked in 2003 and again in 2007, from where it steadily declined until 2015.\
 Looking closer at the subplot, Thursdays emerged as the day with the highest frequency of crimes, totaling 3630 incidents, whereas Sundays witnessed the fewest, with only 1059 reported crimes, see table 1.
@@ -29,7 +29,7 @@ A noteworthy observation is the apparent increase in crimes during the weekend c
 
 
 __Geographical analysis of reported prostitution incidents (III)__
-
+"Now that we have gained a better understanding of the distribution and trends of reported prostitution incidents, it would be interesting to see in which districts these incidents occur.
 The plot to the left shows that the region park is the district with the least reported cases of prostitution as there only have been recorded 18 cases. Mission is the region where the highest number of reported cases of prostitution as 2773 cases have been reported here. It is however necessary to keep in mind that these number tells nothing of the density of the crime.
 
 As Mission is a larger region than Tenderloin it is fair to assume that more more people live here. According to [THE STANDARD BASED ON THE CITY OF SF’S ANALYSIS NEIGHBORHOODS], there is an estimated 103.059 population in the district Mission. Please note that this source divides SF into 41 regions, so our estimate for the population of the district Mission, is the sum of the population of three districts, which all together cover the district Mission. The district Tenderloin has an estimated population of 31.118 citizens. Sunset/Parkside (which is a subdistrict of TARAVAL) is the most populous neighbourhood in the city with a population of 81.209 citizens.
