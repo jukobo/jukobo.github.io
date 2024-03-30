@@ -25,7 +25,8 @@ Interestingly, weekdays, particularly Tuesday, Wednesday, and Thursday, presente
 
 The second subplot in _figure 1_ shows a distinct pattern regarding the timing of the prostitution crimes during the days of the week. 
 The data illustrates that prostitution incidents are most prevalent around midnight and during the late night hours, suggesting a correlation between the cover of overnighting out of town and the occurrence of such offenses. Conversely, there is a notable decrease in incidents during the morning and daytime hours.\
-A noteworthy observation is the apparent increase in crimes during the weekend compared to weekdays, which contrasts with the findings of the first plot. However, upon closer examination and check with table 1, it becomes evident that this apparent discrepancy is not accurate.
+
+A noteworthy observation is the apparent increase in crimes on Tuesday, Wednesday, and Thursday compared to the weekend, which also matches the findings of the first plot. This observation is further supported by _table 1_, which displays the number of incidents on different weekdays.
 
 
 __Geographical analysis of reported prostitution incidents (III)__
