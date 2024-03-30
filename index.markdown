@@ -1,6 +1,5 @@
 ---
 layout: default
-    title: Social Data Analysis and Visualization
 ---
 
 # Assigment 2, Group 28
@@ -11,11 +10,12 @@ layout: default
 ---
 *Updated: {% assign copenhagen_time = site.time | date: "%d-%m-%Y %H:%M:%S" | date: "%s" | plus: 3600 | date: "%d-%m-%Y %H:%M:%S" %}{{ copenhagen_time }}*
 
-__Introduction (I)__\
+## Introduction (I)
 The data that we are working with in this project is *Police Department Incident Reports: Historical 2003 to May 2018*, which is provided by the City and County of San Francisco. The data is about historical reported crimes in San Francisco. It contains 35 columns, each providing essential infomation about the observation, such as time, position and categori of the crime. In this project, we will be focusing on the crime category prostitution and explore how this crime has developed over time and in the different districts of San Francisco. We will only examine data from January 1st, 2003, to December 31st, 2017.
 
 
-__Trends and patterns of prostitution incidents (II)__\
+## Trends and patterns of prostitution incidents (II)
+
 _Short intro_
 
 ![One time-series / bar chart](/A2/plot1_ny.png)
@@ -39,7 +39,7 @@ The data illustrates that prostitution incidents are most prevalent around midni
 A noteworthy observation is the apparent increase in crimes on Tuesday, Wednesday, and Thursday compared to the weekend, which also matches the findings of the first plot. This observation is further supported by _table 1_, which displays the number of incidents on different weekdays.
 
 
-__Geographical analysis of reported prostitution incidents (III)__
+## Geographical analysis of reported prostitution incidents (III)
 
 Now that we have gained a better understanding of the distribution and trends of reported prostitution incidents, it would be interesting to see in which districts these incidents occur. This is achieved by plotting a heatmap over the different districts, where colors represent the number of incidents, see the plot to the left in _figure 2_.
 
@@ -76,7 +76,7 @@ The plot to the right in _figure 2_ shows the rate of reported cases of prostitu
 _Figure 2: Overview of Reported Prostitution Cases by Districts_
 
 
-__Insights into Prostitution Incident Patterns Across San Francisco Districts (IV)__
+## Insights into Prostitution Incident Patterns Across San Francisco Districts (IV)
 
 Finally, to gain a better insight into prostitution in each of San Francisco's police districts, we have created a jitter plot illustrating prostitution incidents, see _figure 3_. Each point represents an incident over the 14 years, with the x-axis showing the time of occurrence and the y-axis indicating the day of the week. These plots provide us with an understanding of trends and variations over time and across different districts. Additionally, a legend on the right side of the plot assists in identifying the police districts represented by different colors.
 
@@ -95,7 +95,7 @@ Furthermore, it is apparent that in some of the districts, a significant number 
 
 
 
-__Contributions__
+## Contributions
 
 | Part | s214704 | s214725 | s204112 |
 |------|---------|---------|---------|
