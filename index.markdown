@@ -4,7 +4,7 @@ layout: default
 
 *Updated: {% assign copenhagen_time = site.time | date: "%d-%m-%Y %H:%M:%S" | date: "%s" | plus: 3600 | date: "%d-%m-%Y %H:%M:%S" %}{{ copenhagen_time }}*
 
-# Assigment 2, Group 28
+# Assignment 2, Group 28
 
 * * *
 
