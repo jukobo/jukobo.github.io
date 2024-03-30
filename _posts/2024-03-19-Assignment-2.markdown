@@ -29,6 +29,7 @@ A noteworthy observation is the apparent increase in crimes during the weekend c
 
 
 __Geographical analysis of reported prostitution incidents (III)__
+
 Now that we have gained a better understanding of the distribution and trends of reported prostitution incidents, it would be interesting to see in which districts these incidents occur.
 
 The plot to the left shows that the region park is the district with the least reported cases of prostitution as there only have been recorded 18 cases. Mission is the region where the highest number of reported cases of prostitution as 2773 cases have been reported here. It is however necessary to keep in mind that these number tells nothing of the density of the crime.
