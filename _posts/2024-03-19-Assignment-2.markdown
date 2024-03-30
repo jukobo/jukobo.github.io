@@ -11,7 +11,7 @@ _Short intro_
 ![One time-series / bar chart](/A2/plot1.png)
 _Figure 1: Illustration of the distribution of time and days across the years of reported prostitution incidents._
 
-In the first plot of the subplot, a comprehensive overview of the crime trend from 2003 to 2017 is presented. It can be seen, that the prostitution rate peaked in 2003 and again in 2007, from where it steadily declined until 2015.\
+In the first plot of the subplot in _figure 1_, a comprehensive overview of the crime trend from 2003 to 2017 is presented. It can be seen, that the prostitution rate peaked in 2003 and again in 2007, from where it steadily declined until 2015.\
 Looking closer at the subplot, Thursdays emerged as the day with the highest frequency of crimes, totaling 3630 incidents, whereas Sundays witnessed the fewest, with only 1059 reported crimes, see table 1.
 
 | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
@@ -23,7 +23,7 @@ _Table 1: Total amount of prostitution crimes on the different weekdays._
 The data reveals a varying pattern in prostitution incidents over the years. Initially, there is a relatively low frequency of such offenses on Saturdays during the first four years. However, a significant increase is observed in 2007 and 2008, with peak levels reached in 2014, before returning to levels akin to those seen between 2003 and 2006 by the end of the period.\
 Interestingly, weekdays, particularly Tuesday, Wednesday, and Thursday, presented disproportionately high numbers of prostitution-related incidents. In 2016, a conspicuous shift is observed, with Thursday emerging as the predominant weekday for criminal activities, marking a more dominant departure from previous patterns.
 
-The second subplot shows a distinct pattern regarding the timing of the prostitution crimes during the days of the week. 
+The second subplot in _figure 1_ shows a distinct pattern regarding the timing of the prostitution crimes during the days of the week. 
 The data illustrates that prostitution incidents are most prevalent around midnight and during the late night hours, suggesting a correlation between the cover of overnighting out of town and the occurrence of such offenses. Conversely, there is a notable decrease in incidents during the morning and daytime hours.\
 A noteworthy observation is the apparent increase in crimes during the weekend compared to weekdays, which contrasts with the findings of the first plot. However, upon closer examination and check with table 1, it becomes evident that this apparent discrepancy is not accurate.
 
@@ -65,7 +65,7 @@ _Figure 2: Overview of Reported Prostitution Cases by Districts_
 
 __Insights into Prostitution Incident Patterns Across San Francisco Districts (IV)__
 
-Finally, to gain a better insight into prostitution in each of San Francisco's police districts, we have created a jitter plot illustrating prostitution incidents, see figure 3. Each point represents an incident over the 14 years, with the x-axis showing the time of occurrence and the y-axis indicating the day of the week. These plots provide us with an understanding of trends and variations over time and across different districts. Additionally, a legend on the right side of the plot assists in identifying the police districts represented by different colors.
+Finally, to gain a better insight into prostitution in each of San Francisco's police districts, we have created a jitter plot illustrating prostitution incidents, see _figure 3_. Each point represents an incident over the 14 years, with the x-axis showing the time of occurrence and the y-axis indicating the day of the week. These plots provide us with an understanding of trends and variations over time and across different districts. Additionally, a legend on the right side of the plot assists in identifying the police districts represented by different colors.
 
 <embed 
        type="text/html" 
