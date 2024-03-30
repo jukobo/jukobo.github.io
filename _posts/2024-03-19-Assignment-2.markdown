@@ -8,7 +8,7 @@ The data that we are working with in this project is *Police Department Incident
 __Trends and patterns of prostitution incidents (II)__\
 _Short intro_
 
-![One time-series / bar chart](/A2/plot1.png)
+![One time-series / bar chart](/A2/plot1_ny.png)
 _Figure 1: Illustration of the distribution of time and days across the years of reported prostitution incidents._
 
 In the first plot of the subplot in _figure 1_, a comprehensive overview of the crime trend from 2003 to 2017 is presented. It can be seen, that the prostitution rate peaked in 2003 and again in 2007, from where it steadily declined until 2015.\
