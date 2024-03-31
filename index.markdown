@@ -16,7 +16,7 @@ The data that we are working with in this project is *Police Department Incident
 
 ## Trends and patterns of prostitution incidents (II)
 
-_Short intro_
+To get a bette overview of the reported prositution crimes, a static illustration is made as a subplot to show the amount of crimes. The first subplot shows the total number of crimes per weekday in a year. The second subplot is the total amount of prostitution crimes over all 15 years divided into hours of the week.
 
 ![One time-series / bar chart](/A2/plot1_ny.png)
 _Figure 1: Illustration of the distribution of time and days across the years of reported prostitution incidents._
