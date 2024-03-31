@@ -34,7 +34,7 @@ The data reveals a varying pattern in prostitution incidents over the years. Ini
 Interestingly, weekdays, particularly Tuesday, Wednesday, and Thursday, presented disproportionately high numbers of prostitution-related incidents. In 2016, a conspicuous shift is observed, with Thursday emerging as the predominant weekday for criminal activities, marking a more dominant departure from previous patterns.
 
 The second subplot in _figure 1_ shows a distinct pattern regarding the timing of the prostitution crimes during the days of the week. 
-The data illustrates that prostitution incidents are most prevalent around midnight and during the late night hours, suggesting a correlation between the cover of overnighting out of town and the occurrence of such offenses. Conversely, there is a notable decrease in incidents during the morning and daytime hours.\
+The data illustrates that prostitution incidents are most prevalent around midnight and during the late night hours, suggesting a correlation between the cover of overnighting out of town and the occurrence of such offenses. Conversely, there is a notable decrease in incidents during the morning and daytime hours.
 
 A noteworthy observation is the apparent increase in crimes on Tuesday, Wednesday, and Thursday compared to the weekend, which also matches the findings of the first plot. This observation is further supported by _table 1_, which displays the number of incidents on different weekdays.
 
@@ -78,7 +78,7 @@ _Figure 2: Overview of Reported Prostitution Cases by Districts_
 
 ## Insights into Prostitution Incident Patterns Across San Francisco Districts (IV)
 
-Finally, to gain a better insight into prostitution in each of San Francisco's police districts, we have created a jitter plot illustrating prostitution incidents, see _figure 3_. Each point represents an incident over the 14 years, with the x-axis showing the time of occurrence and the y-axis indicating the day of the week. These plots provide us with an understanding of trends and variations over time and across different districts. Additionally, a legend on the right side of the plot assists in identifying the police districts represented by different colors.
+Finally, to gain a better insight of prostitution in each of San Francisco's police districts, we have created a jitter plot illustrating prostitution incidents, see _figure 3_. Each point represents an incident over the 15 years, with the x-axis showing the time of occurrence and the y-axis indicating the day of the week. These plots provide us with an understanding of trends and variations over time and across different districts. Additionally, a legend on the right side of the plot assists in identifying the police districts represented by different colors.
 
 <embed 
        type="text/html" 
@@ -87,7 +87,7 @@ Finally, to gain a better insight into prostitution in each of San Francisco's p
        height="350">
 _Figure 3: Jitterplot over the prostitution incidents for each police department._
 
-Looking at the different districts, we observe that there are clearly more incidents during the evening and night hours compared to the daytime in most districts. Additionally, we notice a distinct pattern where weekdays, particularly Tuesday, Wednesday, and Thursday, has the highest density of incidents. These observations are just like those found in the first figure above, but here we see that almost each district also has this distribution. It can therefore be concluded that it is not an outlier responsible for the overall distribution, but a tendency for all districts.
+Looking at the different districts, we observe that there are clearly more incidents during the evening and night hours compared to the daytime in most districts, which we also discovered in _figure 1_. Additionally, we notice a distinct pattern where weekdays, particularly Tuesday, Wednesday, and Thursday, has the highest density of incidents. These observations are just like those found in the first figure above (_figure 1_), but here we see that almost each district also has this distribution. It can therefore be concluded that it is not an outlier responsible for the overall distribution, but a tendency for all districts.
 
 When examining each district individually, it becomes evident that Mission, Northern, and Tenderloin are among the districts with the highest number of incidents, while the Park district has so few that they can be easily counted.
 
