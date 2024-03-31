@@ -41,7 +41,7 @@ A noteworthy observation is the apparent increase in crimes on Tuesday, Wednesda
 
 ## Geographical analysis of reported prostitution incidents (III)
 
-Now that we have gained a better understanding of the distribution and trends of reported prostitution incidents, it would be interesting to see in which districts these incidents occur. This is achieved by plotting a heatmap over the different districts, where colors represent the number of incidents, see the plot to the left in _figure 2_.
+Now that we have gained a better understanding of the distribution and trends of reported prostitution incidents, it would be interesting to see in which districts these incidents occur. This is achieved by plotting a heatmap over the different districts, where colors represent the number of incidents in total over the 15 years, see the plot to the left in _figure 2_.
 
 This plot shows that the region park is the district with the least reported cases of prostitution as there only have been recorded 18 cases. Mission is the region where the highest number of reported cases of prostitution as 2773 cases have been reported here. It is however necessary to keep in mind that these number tells nothing of the density of the crime.
 
