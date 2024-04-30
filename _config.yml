@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Using extensive data spanning from 2003 to 2017, we delve into trends, patterns, 
   and geographical insights to offer a understanding of the incidents. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://knorsker.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jukobo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jbersej
 # github_username:  jukobo
 # author: Julie Boel
